@@ -1,0 +1,5 @@
+yfinance>=0.2.40
+pandas>=2.0
+numpy>=1.24
+curl_cffi>=0.7
+pytest>=8.0
