@@ -9,6 +9,22 @@ financialData) live under `src/vendor/` (origin: the stocksCheck project) and
 are wired in via `src/stockscheck/stockscheck_bridge.py`. No external project
 paths required.
 
+## ⚠️ Disclaimer
+
+**This is NOT financial advice.** This project is a technical study and is
+provided for educational and informational purposes only. Nothing produced by
+this tool constitutes investment advice, a recommendation, or an offer to buy
+or sell any security.
+
+- The author(s) make no guarantee of accuracy, completeness, or fitness for
+  any particular purpose.
+- Markets involve substantial risk of loss. Past performance and backtests
+  are not indicative of future results — the built-in backtest is
+  intentionally simplistic.
+- **Anyone who uses this code or its output acts solely at their own risk and
+  on their own responsibility.** Always do your own research and consult a
+  licensed financial advisor before making investment decisions.
+
 ## For AI Agents
 
 **If you are an AI agent:** Read [AGENTS.md](AGENTS.md) first — it contains a
