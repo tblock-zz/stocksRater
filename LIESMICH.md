@@ -8,6 +8,22 @@ Das Paket ist **autark** - die Kernmodule (loader, indicators, financialData) li
 unter `src/vendor/` (Herkunft: stocksCheck-Projekt) und werden ueber
 `src/stockscheck/stockscheck_bridge.py` eingebunden. Keine externen Projektpfade noetig.
 
+## ⚠️ Haftungsausschluss
+
+**Das ist KEINE Anlageberatung.** Dieses Projekt ist eine technische Studie und
+wird ausschließlich zu Bildungs- und Informationszwecken bereitgestellt. Nichts,
+was dieses Tool erzeugt, stellt Anlageberatung, eine Empfehlung oder ein Angebot
+zum Kauf bzw. Verkauf von Wertpapieren dar.
+
+- Die Autor(inn)en übernehmen keine Garantie für Richtigkeit, Vollständigkeit
+  oder Eignung für einen bestimmten Zweck.
+- Märkte bergen ein erhebliches Verlustrisiko. Vergangene Kursentwicklungen
+  und Backtests sind keine Garantie für zukünftige Ergebnisse — der eingebaute
+  Backtest ist bewusst stark vereinfacht.
+- **Jeder, der diesen Code oder dessen Ausgaben nutzt, handelt allein auf
+  eigene Verantwortung und eigenes Risiko.** Immer eigene Recherche betreiben
+  und vor Anlageentscheidungen einen zugelassenen Finanzberater konsultieren.
+
 ## For AI Agents
 
 **If you are an AI agent:** Read [AGENTS.md](AGENTS.md) first — it contains a
